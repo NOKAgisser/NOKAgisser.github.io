@@ -24,8 +24,8 @@ sass:
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: OLD 3NICE
-description: "GIS Student"
-keywords: 'jekyll,theme,gem-based,blog'
+description: "A Blog of a GIS Student"
+keywords: 'GIS,blog,NNU'
 author:
   name:
   job_title:
@@ -49,7 +49,7 @@ author:
 home:
   section1: <h1>OLD 3NICE</h1>
   section2: <h2>GIS Student</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section3: <h3>南京师范大学强化培养学院</h3>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
