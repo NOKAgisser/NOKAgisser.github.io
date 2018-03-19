@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World!"
-description: "The first 'Hello world' post for Simple Texture theme."
-categories: [uncategorized]
-tags: [random, jekyll]
+title: "博客建立日"
+description: "我的第一个博客建立于2018-03-19."
+categories: [record]
+tags: [博客]
 redirect_from:
-  - /2013/04/22/
+  - /2018/03/19/
 ---
-Hello World! This is the beginning of this theme.
+#我的第一个博客建立于2018-03-19
