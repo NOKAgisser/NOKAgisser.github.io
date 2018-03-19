@@ -85,4 +85,10 @@ $size: 48;
 
         background-color: #FF3960;
     }
+    
+    .ico-QQ {
+        @include get-ico-image(QQ);
+
+        background-color: #6383A8;
+    }
 }
