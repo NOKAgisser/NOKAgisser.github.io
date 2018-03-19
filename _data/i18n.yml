@@ -1,10 +1,10 @@
 en: &en
-  about: '关于'
+  about: 'About'
   articles: 'Articles'
-  back_to_top: '回到顶部'
-  categories: '文章分类'
-  close: '关闭'
-  enter_blog: '载入博客'
+  back_to_top: 'Back to top'
+  categories: 'Categories'
+  close: 'Close'
+  enter_blog: 'Enter blog'
   last_updated: 'Last updated'
   menu: 'Menu'
   more: 'More'
@@ -28,15 +28,15 @@ en: &en
   theme_info: '<p><small>Theme <a href="https://github.com/yizeng/jekyll-theme-simple-texture" target="_blank">Simple Texture</a> developed by <a href="http://yizeng.me" target="_blank">Yi Zeng</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</small></p>'
   view: 'View'
 en-us:
-  <<: *en
+  <<: *zn
 en-gb:
-  <<: *en
+  <<: *zn
 en-au:
-  <<: *en
+  <<: *zn
 en-ca:
-  <<: *en
+  <<: *zn
 en-nz:
-  <<: *en
+  <<: *zn
 zh: &zh
   about: '关于'
   articles: '文章列表'
