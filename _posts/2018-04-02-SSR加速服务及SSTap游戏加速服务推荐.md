@@ -2,7 +2,7 @@
 layout: post
 title: "SSR加速服务及SSTap游戏加速服务推荐"
 description: "SSR加速服务及SSTap游戏加速服务推荐."
-categories: [介绍，推广]
+categories: [推广]
 tags: [SSR, SSTap, 加速, vps, RfcNetwork]
 redirect_from:
   - /2018/04/02/
